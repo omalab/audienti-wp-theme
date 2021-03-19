@@ -1,0 +1,13 @@
+{
+    "colors": {
+        "primary": "#4965F6",
+        "secondary": "#3ECF8E",
+        "dark": "#374151",
+        "light": "#F3F4F6"
+    },
+    "fontSizes": {
+        "small": ["14px"],
+        "regular": ["16px"],
+        "large": ["18px", "bold"]
+    }
+}
